@@ -166,7 +166,7 @@ text-align: center;
   
 h1 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-      font-size: 6.5vh;
+      font-size: 5vh;
       font-weight: 3px;
 }
 
@@ -310,7 +310,7 @@ li {
     
 }
 .printarea {
-width : 90vw;
+width : 95vw;
 margin : 20px auto;
 height: 95vh;
 }
