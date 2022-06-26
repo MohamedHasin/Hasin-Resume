@@ -1,0 +1,319 @@
+.left_side {
+    width: 33.5vw;
+    background: rgb(9,4,4);
+    background: linear-gradient(0deg, rgba(9,4,4,1) 0%, rgba(47,47,47,1) 81%);    float: left;
+}
+
+img {
+    border-radius: 50%;
+    width: 20vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.AboutMe {
+    text-align: center;
+}
+
+.Skills {
+    text-align: center;
+}
+
+.EDUCATION {
+text-align: center;
+}
+
+.EXPERIENCE {
+    text-align: center;
+}
+
+
+.Me_Text {
+    font-size: 1.6vw;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    color: whitesmoke;
+
+}
+
+.Contact_Details {
+    font-size: 1.25vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+}
+
+.Contact {
+    float: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:justify;
+    text-align: left;
+}
+ 
+* {
+       box-sizing : border - box;
+        margin : 0;
+        padding : 0;
+}
+
+#Program_Language {
+    width: 20vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+  }
+  
+#HTML {
+    width: 20vw;
+    height: 2.2vw;
+    background-color: #0026ff;
+    color: white;
+    border: white;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 1.5vw;
+    font-family: monospace;
+}
+
+.HTML_text {
+      text-align: center;
+      color: whitesmoke;
+}
+
+
+#Java {
+    width: 16vw;
+    height: 2.2vw;
+    background-color:rgb(56, 142, 255);
+    color: white;
+    border: white;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 1.5vw;
+    font-family: monospace;
+}
+
+.Java_text {
+      text-align: center;
+      color: whitesmoke;
+}
+
+
+#JavaScript {
+    width: 16vw;
+    height: 2.2vw;
+    background-color:rgb(156, 128, 255);
+    color: white;
+    border: white;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 1.5vw;
+    font-family: monospace;
+}
+
+.JavaScript_text {
+      text-align: center;
+      color: whitesmoke;
+
+}
+
+
+#PHP {
+    width: 18vw;
+    height: 2.2vw;
+    background-color: rgb(163, 226, 255);
+    color: white;
+    border: white;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 1.5vw;
+    font-family: monospace;
+}
+
+.PHP_text {
+      text-align: center;
+      color: whitesmoke;
+}
+
+#Languages_Known {
+    width: 24vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:justify;
+    text-align: center;
+    height:8vh;
+}
+
+#Languages {
+    width: 24vw;
+    height: 2.2vw;
+    background-color:tomato;
+    color: white;
+    border: white;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 2vw;
+    font-family:monospace;
+}
+
+.Languages_Text {
+      text-align: center;
+      color: whitesmoke;
+}
+  
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-size: 6.5vh;
+      font-weight: 3px;
+}
+
+h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2vw;
+    font-weight: 1px;
+    color: #0055d4;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.6vw;
+    font-weight: 2px;
+    color:rgb(241, 93, 93);
+}
+
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;        
+    font-size: 1.7vw;
+    font-weight: 2px;
+    text-align: left;
+    text-align: justify;
+}
+
+h5 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.8vw;
+    font-weight: 3px;
+    color: #216ad8;
+}
+
+h6 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2.5vw;
+}
+
+h7 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3.2vh;
+    color:rgb(252, 38, 0);
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    font-size: 1.6vw;   
+    color:whitesmoke;   
+}
+
+.About_Me {
+    width: 27vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:justify;
+}
+.SkillsList {
+    width: 27vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:justify;
+    text-align: center;
+ }
+
+ .backtotopbutton {
+    background-color: #1e57f4;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    transition: 0.2s;
+    opacity: 0.7;
+    font-size: 25px;
+    margin: 4px 2px;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+.backtotopbutton:hover {
+    opacity: 1;
+}
+
+.button_container {
+      display: block;
+      align-content: center;
+      position: right;
+      text-align: center;
+}
+
+.print_button_container {
+    display: block;
+    align-content: center;
+    position: right;
+    text-align: center;
+}
+
+.printbutton {
+    background-color: #f41e1e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    transition: 0.2s;
+    opacity: 0.7;
+    font-size: 25px;
+    margin: 4px 2px;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+.ProgrammingSkills {
+        width: 27vw;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align:justify;
+}
+.LanguagesSpoken{
+    width: 27vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:justify;
+    text-align: center;
+}
+
+
+.education_block {
+    background-color: rgb(240, 240, 240);
+
+    
+}
+.experience_block {
+    background-color: rgb(255, 255, 255);
+}
+
+.contact_block {
+    background-color: rgb(209, 209, 209);
+
+    
+}
+.printarea {
+width : 85vw;
+margin : 20px auto;
+height: 95vh;
+}
+
+
+
