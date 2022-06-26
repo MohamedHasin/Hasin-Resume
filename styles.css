@@ -312,6 +312,8 @@ li {
 .printarea {
 width : 99vw;
 margin : 20px auto;
+    height: 100vh;
+
 }
 
 
